@@ -35,3 +35,30 @@ hiện các tác vụ xử lý ngôn ngữ tự nhiên, tokenization, phân tíc
 thay thế văn bản theo mẫu nhất định.
 
 Bằng các phương pháp kể trên đã rút ra được những kinh nghiệm như xác định cảm xúc chủ đạo của khách hàng (tích cực, tiêu cực hay trung tính) mà khách hàng thể hiện đối với mỗi sản phẩm. Ngoài ra, nhóm đã nhận ra được các yếu tố sản phẩm nào được khách hàng đánh giá cao hoặc không hài lòng. Từ đó trực quan hóa kết quả phân tích để làm rõ các vấn đề còn đang tồn đọng. Cuối cùng thì nhóm có thể tổng hợp những điểm mạnh, điểm yếu của sản phẩm theo góc nhìn của khách hàng, giúp nhà sản xuất hiểu rõ hơn nhu cầu và ra các quyết định cải tiến phù hợp cho các sản phẩm của mình.
+
+**Những từ thường xuyên xuất hiện nhất trong bình luận về sản phẩm của khách hàng:**
+
+![image](https://github.com/user-attachments/assets/acc59744-8cdc-4284-8581-c7676c4fbebc)
+
+                                    (Hình 2. Từ thường xuyên xuất hiện nhất)
+
+**Những từ nào thường xuất hiện nhiều nhất trong những bình luận tiêu cực?**
+
+![image](https://github.com/user-attachments/assets/e6a1c1ec-80c0-47cb-952d-de16fbedcab3)
+
+                                      (20 Từ xuất hiện nhiều nhất trong những đánh giá tiêu cực)
+
+**Những từ xuất hiện trong những bình luận tích cực là những từ nào?**
+
+![image](https://github.com/user-attachments/assets/20dc16f2-8fdc-48ff-af9c-33c3cb139259)
+
+                                        (20 từ xuất hiện trong những đánh giá tích cực)
+
+**Liệu sản phẩm đắt tiền có nhận được đánh giá tốt hơn không?**
+
+![image](https://github.com/user-attachments/assets/da12cc95-8fea-4172-9dd1-79a5824e3571)
+
+                                        (Giá trung bình sản phẩm theo cảm xúc)
+
+
+
